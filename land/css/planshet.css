@@ -1,0 +1,44 @@
+ @media (min-width: 414px) and (max-width: 767px)
+ {
+
+     #header-block{
+         background-image: url("../img/header/header.png");
+         background-size: cover ;
+         background-position: 40% 40%;
+         padding-top: 90px!important;
+         padding-bottom: 200px!important;
+     }
+     #central-blocks{
+         background-image: url("../img/bg/Group 506.png");
+         background-repeat: no-repeat;
+         background-size: cover ;
+         background-clip: border-box;
+         background-position: center;
+
+     }
+
+     #features-text{
+         padding-right: 0!important;
+         padding-left: 0!important;
+     }
+     #cta{
+         background-image: url("../img/cta/Background.png");
+         background-repeat: no-repeat;
+         background-position: center;
+         background-size: cover  ;
+         background-clip: border-box;
+         padding: 55px 0!important;
+     }
+     #f-links{
+         margin-top: 50px!important;
+     }
+     .f-l-block{
+         margin-top: 30px!important;
+     }
+     #footer{
+         text-align: center!important;
+     }
+     #our-content-text h2,p{
+         max-width: none!important;
+     }
+ }

@@ -1,0 +1,23 @@
+.container-fluid,.container,.row,p,h1,h2,h3,h4,h5,h6{
+    padding: 0!important;
+    margin: 0!important;
+}
+a{
+
+}
+.row{
+    padding-left: 10%!important;
+    padding-right: 10%!important;
+}
+.row>*{
+    padding: 0;
+}
+.col-md-5{
+    margin: 0!important;
+    padding: 0!important;
+}
+.container-fluid{
+    max-width: 1440px!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
