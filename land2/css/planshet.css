@@ -1,0 +1,91 @@
+@media (min-width: 0) and (max-width: 991px) {
+    #improve-img{
+        position: relative!important;
+        margin-left: -25%;
+        min-height: 300px!important;
+        height: auto!important;
+        padding: 0!important;
+    }
+    #improve .row{
+        overflow: hidden!important;
+        padding-bottom: 50px!important;
+    }
+    #improve-block{
+        padding-right: 0!important;
+        padding-left: 0!important;
+    }
+    #community-block{
+        padding-right: 0!important;
+        padding-left: 0!important;
+    }
+    h1{
+        font-size: 45px!important;
+    }
+    h2{
+        font-size: 40px!important;
+    }
+    p{
+        font-size: 30px!important;
+    }
+    #navbar-btn{
+        width: 100%!important;
+    }
+    #improve button{
+        width: 100%!important;
+    }
+    #community button{
+        width: 100%!important;
+    }
+    #team button{
+        width: 100%!important;
+    }
+    #footer button{
+        width: 100%!important;
+    }
+
+    #improve-btn-block{
+        flex-direction: column!important;
+        margin-top: 35px!important;
+    }
+    #login-btn{
+        margin-left: 0!important;
+        margin-top: 10px!important;
+    }
+
+
+    #community-img-block{
+        text-align: center;
+    }
+
+    #community{
+        padding-bottom: 50px!important;
+    }
+    #community img{
+        width: 100%!important;
+    }
+
+
+
+    .team-stat{
+        background: #FFFFFF;
+        border-radius: 10px;
+        padding: 10px 15px 15px 15px!important;
+        margin: 0;
+        display: grid;
+        /*grid-template-rows: 1fr auto;*/
+        margin-bottom: 20px;
+        break-inside: avoid!important;
+    }
+    .team-stat-block {
+        column-count: 1;
+        column-gap: 50px;
+        padding-left: 25px;
+        padding-right: 25px!important;
+        order: 2!important;
+    }
+    #team-text{
+        order: 1!important;
+        padding-bottom: 40px!important;
+    }
+
+}

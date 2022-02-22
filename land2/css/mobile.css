@@ -1,0 +1,65 @@
+@media (min-width: 0) and (max-width: 576px) {
+    h1 {
+        font-size: 35px !important;
+    }
+
+    h2 {
+        font-size: 26px !important;
+    }
+
+    p {
+        font-size: 20px !important;
+    }
+
+
+
+    #improve .row{
+        padding-bottom: 20px!important;
+
+    }
+
+
+
+    #team-text{
+        padding: 0!important;
+    }
+    .team-stat-block{
+        padding: 0!important;
+    }
+
+    #community .text-block{
+        margin-top: 30px!important;
+    }
+    #join-btn{
+        margin-top: 40px!important;
+    }
+
+    #team{
+        padding-top: 25px!important;
+    }
+
+    #team-text {
+        padding-bottom: 70px!important;
+    }
+
+    #team-text p {
+        margin-top: 35px!important;
+    }
+    #btn-team{
+        margin-top: 50px!important;
+    }
+
+
+    #footer-block{
+        padding: 15px 25px!important;
+    }
+    #footer-btn-block{
+        margin-top: 25px!important;
+        margin-left: 0!important;
+        width: 100%!important;
+    }
+
+
+
+
+}
